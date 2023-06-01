@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    height: 100vh;
+    width: 100vw;
+}
+.container-cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding-left: 5%;
+    padding-right: 8%;
+
+    max-height: 100vh;
+    width: 84%;
+}
+.container-sidebar{
+    height: 100vh;
+    width: 16%;
+}

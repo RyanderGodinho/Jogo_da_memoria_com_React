@@ -1,0 +1,9 @@
+  .cards img{
+    width: 136px;
+    height: 236px;
+    cursor: pointer;
+    transform: scale(1);
+  }
+  .cards img:hover{
+    transform: scale(0.99);
+  }
